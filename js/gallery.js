@@ -32,11 +32,11 @@ const images = [
     
   },
   {
-        preview:
+      preview:
             'https://cdn.pixabay.com/photo/2018/09/13/10/36/mountains-3674334__340.jpg',
-        original:
+    original:
             'https://cdn.pixabay.com/photo/2018/09/13/10/36/mountains-3674334_1280.jpg',
-        description: 'Alpine Mountains',
+      description: 'Alpine Mountains',
     }, 
   {
     preview:
